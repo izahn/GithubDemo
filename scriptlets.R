@@ -8,17 +8,13 @@
 
 # Put functions here
 #   1. Prints hello world
-
-n <- readlines("what is your name:")
-
-hello_world <- function() {
+n <- readline("what is your name:")
+hello_world <- function(n) {
   myString <- paste("Hello,", n)
   print (myString)
 }
-
 # main code
-
-hello_world()
+hello_world(n)
 
 square_it(10)
 
