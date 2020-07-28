@@ -12,7 +12,7 @@ def getWFSlot(productUrl):
        'User-Agent': 'Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.36',
    }
 
-   driver = webdriver.Chrome(executable_path='/Users/yuantian/Downloads/chromedriver 2')
+   driver = webdriver.Chrome(executable_path='/Users/miaomiaozhang/Downloads/chromedriver 2')
    driver.get(productUrl)           
    html = driver.page_source
    soup = bs4.BeautifulSoup(html, "html.parser")
