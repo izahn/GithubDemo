@@ -1,0 +1,1121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "http://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Automated" Owner="NLM">
+      <PMID Version="1">30067490</PMID>
+      <DateCompleted>
+        <Year>2019</Year>
+        <Month>10</Month>
+        <Day>03</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2019</Year>
+        <Month>10</Month>
+        <Day>07</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">2405-5018</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>4</Volume>
+            <Issue>4</Issue>
+            <PubDate>
+              <Year>2018</Year>
+              <Month>04</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>JACC. Clinical electrophysiology</Title>
+          <ISOAbbreviation>JACC Clin Electrophysiol</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Complications of Radiofrequency Catheter Ablation: Can We Prevent Steam Pops?</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>501-503</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="pii" ValidYN="Y">S2405-500X(17)31085-X</ELocationID>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.jacep.2017.11.003</ELocationID>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Viles-Gonzalez</LastName>
+            <ForeName>Juan F</ForeName>
+            <Initials>JF</Initials>
+            <AffiliationInfo>
+              <Affiliation>Tulane University School of Medicine, New Orleans, Louisiana.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Berjano</LastName>
+            <ForeName>Enrique</ForeName>
+            <Initials>E</Initials>
+            <AffiliationInfo>
+              <Affiliation>BioMIT, Electronic Engineering Department, Universitat Politècnica de València, Valencia, Spain.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>d'Avila</LastName>
+            <ForeName>Andre</ForeName>
+            <Initials>A</Initials>
+            <AffiliationInfo>
+              <Affiliation>Cardiac Arrhythmia Service, Hospital SOS Cardio-Florianópolis, Florianópolis, Brazil. Electronic address: andredavila@mac.com.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016421">Editorial</PublicationType>
+          <PublicationType UI="D016420">Comment</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2017</Year>
+          <Month>12</Month>
+          <Day>20</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>United States</Country>
+        <MedlineTA>JACC Clin Electrophysiol</MedlineTA>
+        <NlmUniqueID>101656995</NlmUniqueID>
+        <ISSNLinking>2405-500X</ISSNLinking>
+      </MedlineJournalInfo>
+      <ChemicalList>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D013227">Steam</NameOfSubstance>
+        </Chemical>
+      </ChemicalList>
+      <CitationSubset>IM</CitationSubset>
+      <CommentsCorrectionsList>
+        <CommentsCorrections RefType="CommentOn">
+          <RefSource>JACC Clin Electrophysiol. 2018 Apr;4(4):491-500</RefSource>
+          <PMID Version="1">30067489</PMID>
+        </CommentsCorrections>
+      </CommentsCorrectionsList>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="Y">ablation</Keyword>
+        <Keyword MajorTopicYN="Y">biophysics</Keyword>
+        <Keyword MajorTopicYN="Y">complication</Keyword>
+        <Keyword MajorTopicYN="Y">impedance</Keyword>
+        <Keyword MajorTopicYN="Y">intracardiac echocardiography</Keyword>
+        <Keyword MajorTopicYN="Y">steam pop</Keyword>
+      </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2017</Year>
+          <Month>10</Month>
+          <Day>25</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2017</Year>
+          <Month>11</Month>
+          <Day>02</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2018</Year>
+          <Month>8</Month>
+          <Day>2</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2018</Year>
+          <Month>8</Month>
+          <Day>2</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2019</Year>
+          <Month>10</Month>
+          <Day>8</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">30067490</ArticleId>
+        <ArticleId IdType="pii">S2405-500X(17)31085-X</ArticleId>
+        <ArticleId IdType="doi">10.1016/j.jacep.2017.11.003</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+      <PMID Version="1">30067491</PMID>
+      <DateCompleted>
+        <Year>2019</Year>
+        <Month>10</Month>
+        <Day>16</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2019</Year>
+        <Month>10</Month>
+        <Day>16</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">2405-5018</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>4</Volume>
+            <Issue>4</Issue>
+            <PubDate>
+              <Year>2018</Year>
+              <Month>04</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>JACC. Clinical electrophysiology</Title>
+          <ISOAbbreviation>JACC Clin Electrophysiol</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Filamin C Truncation Mutations Are Associated With Arrhythmogenic Dilated Cardiomyopathy and Changes in the Cell-Cell Adhesion Structures.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>504-514</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="pii" ValidYN="Y">S2405-500X(17)31191-X</ELocationID>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.jacep.2017.12.003</ELocationID>
+        <Abstract>
+          <AbstractText Label="OBJECTIVES">The purpose of this study was to assess the phenotype of Filamin C (FLNC) truncating variants in dilated cardiomyopathy (DCM) and understand the mechanism leading to an arrhythmogenic phenotype.</AbstractText>
+          <AbstractText Label="BACKGROUND">Mutations in FLNC are known to lead to skeletal myopathies, which may have an associated cardiac component. Recently, the clinical spectrum of FLNC mutations has been recognized to include a cardiac-restricted presentation in the absence of skeletal muscle involvement.</AbstractText>
+          <AbstractText Label="METHODS">A population of 319 U.S. and European DCM cardiomyopathy families was evaluated using whole-exome and targeted next-generation sequencing. FLNC truncation probands were identified and evaluated by clinical examination, histology, transmission electron microscopy, and immunohistochemistry.</AbstractText>
+          <AbstractText Label="RESULTS">A total of 13 individuals in 7 families (2.2%) were found to harbor 6 different FLNC truncation variants (2 stopgain, 1 frameshift, and 3 splicing). Of the 13 FLNC truncation carriers, 11 (85%) had either ventricular arrhythmias or sudden cardiac death, and 5 (38%) presented with evidence of right ventricular dilation. Pathology analysis of 2 explanted hearts from affected FLNC truncation carriers showed interstitial fibrosis in the right ventricle and epicardial fibrofatty infiltration in the left ventricle. Ultrastructural findings included occasional disarray of Z-discs within the sarcomere. Immunohistochemistry showed normal plakoglobin signal at cell-cell junctions, but decreased signals for desmoplakin and synapse-associated protein 97 in the myocardium and buccal mucosa.</AbstractText>
+          <AbstractText Label="CONCLUSIONS">We found FLNC truncating variants, present in 2.2% of DCM families, to be associated with a cardiac-restricted arrhythmogenic DCM phenotype characterized by a high risk of life-threatening ventricular arrhythmias and a pathological cellular phenotype partially overlapping with arrhythmogenic right ventricular cardiomyopathy.</AbstractText>
+          <CopyrightInformation>Copyright © 2018 The Authors. Published by Elsevier Inc. All rights reserved.</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Begay</LastName>
+            <ForeName>Rene L</ForeName>
+            <Initials>RL</Initials>
+            <AffiliationInfo>
+              <Affiliation>Cardiovascular Institute and Adult Medical Genetics Program, University of Colorado Denver, Aurora, Colorado.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Graw</LastName>
+            <ForeName>Sharon L</ForeName>
+            <Initials>SL</Initials>
+            <AffiliationInfo>
+              <Affiliation>Cardiovascular Institute and Adult Medical Genetics Program, University of Colorado Denver, Aurora, Colorado.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Sinagra</LastName>
+            <ForeName>Gianfranco</ForeName>
+            <Initials>G</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Cardiology, Ospedali Riuniti and University of Trieste, Trieste, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Asimaki</LastName>
+            <ForeName>Angeliki</ForeName>
+            <Initials>A</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Pathology, Beth Israel Deaconess Medical Center &amp; Harvard Medical School, Boston, Massachusetts.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Rowland</LastName>
+            <ForeName>Teisha J</ForeName>
+            <Initials>TJ</Initials>
+            <AffiliationInfo>
+              <Affiliation>Cardiovascular Institute and Adult Medical Genetics Program, University of Colorado Denver, Aurora, Colorado.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Slavov</LastName>
+            <ForeName>Dobromir B</ForeName>
+            <Initials>DB</Initials>
+            <AffiliationInfo>
+              <Affiliation>Cardiovascular Institute and Adult Medical Genetics Program, University of Colorado Denver, Aurora, Colorado.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Gowan</LastName>
+            <ForeName>Katherine</ForeName>
+            <Initials>K</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Pediatrics, Section of Hematology, Oncology, and Bone Marrow Transplant, University of Colorado Denver, Aurora, Colorado.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Jones</LastName>
+            <ForeName>Kenneth L</ForeName>
+            <Initials>KL</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Pediatrics, Section of Hematology, Oncology, and Bone Marrow Transplant, University of Colorado Denver, Aurora, Colorado.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Brun</LastName>
+            <ForeName>Francesca</ForeName>
+            <Initials>F</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Cardiology, Ospedali Riuniti and University of Trieste, Trieste, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Merlo</LastName>
+            <ForeName>Marco</ForeName>
+            <Initials>M</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Cardiology, Ospedali Riuniti and University of Trieste, Trieste, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Miani</LastName>
+            <ForeName>Daniela</ForeName>
+            <Initials>D</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Cardiothoracic Science, University Hospital S. Maria della Misericordia, Udine, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Sweet</LastName>
+            <ForeName>Mary</ForeName>
+            <Initials>M</Initials>
+            <AffiliationInfo>
+              <Affiliation>Cardiovascular Institute and Adult Medical Genetics Program, University of Colorado Denver, Aurora, Colorado.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Devaraj</LastName>
+            <ForeName>Kalpana</ForeName>
+            <Initials>K</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Pathology, University of Colorado, University Hospital, Aurora, Colorado.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Wartchow</LastName>
+            <ForeName>Eric P</ForeName>
+            <Initials>EP</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Pathology, Children's Hospital Colorado, Aurora, Colorado.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Gigli</LastName>
+            <ForeName>Marta</ForeName>
+            <Initials>M</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Cardiology, Ospedali Riuniti and University of Trieste, Trieste, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Puggia</LastName>
+            <ForeName>Ilaria</ForeName>
+            <Initials>I</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Cardiology, Ospedali Riuniti and University of Trieste, Trieste, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Salcedo</LastName>
+            <ForeName>Ernesto E</ForeName>
+            <Initials>EE</Initials>
+            <AffiliationInfo>
+              <Affiliation>Cardiovascular Institute and Adult Medical Genetics Program, University of Colorado Denver, Aurora, Colorado.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Garrity</LastName>
+            <ForeName>Deborah M</ForeName>
+            <Initials>DM</Initials>
+            <AffiliationInfo>
+              <Affiliation>Center for Cardiovascular Research and Department of Biology, Colorado State University, Fort Collins, Colorado.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Ambardekar</LastName>
+            <ForeName>Amrut V</ForeName>
+            <Initials>AV</Initials>
+            <AffiliationInfo>
+              <Affiliation>Cardiovascular Institute and Adult Medical Genetics Program, University of Colorado Denver, Aurora, Colorado.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Buttrick</LastName>
+            <ForeName>Peter</ForeName>
+            <Initials>P</Initials>
+            <AffiliationInfo>
+              <Affiliation>Cardiovascular Institute and Adult Medical Genetics Program, University of Colorado Denver, Aurora, Colorado.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Reece</LastName>
+            <ForeName>T Brett</ForeName>
+            <Initials>TB</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Surgery, University of Colorado Denver, Aurora, Colorado.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Bristow</LastName>
+            <ForeName>Michael R</ForeName>
+            <Initials>MR</Initials>
+            <AffiliationInfo>
+              <Affiliation>Cardiovascular Institute and Adult Medical Genetics Program, University of Colorado Denver, Aurora, Colorado.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Saffitz</LastName>
+            <ForeName>Jeffrey E</ForeName>
+            <Initials>JE</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Pathology, Beth Israel Deaconess Medical Center &amp; Harvard Medical School, Boston, Massachusetts.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Mestroni</LastName>
+            <ForeName>Luisa</ForeName>
+            <Initials>L</Initials>
+            <AffiliationInfo>
+              <Affiliation>Cardiovascular Institute and Adult Medical Genetics Program, University of Colorado Denver, Aurora, Colorado.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Taylor</LastName>
+            <ForeName>Matthew R G</ForeName>
+            <Initials>MRG</Initials>
+            <AffiliationInfo>
+              <Affiliation>Cardiovascular Institute and Adult Medical Genetics Program, University of Colorado Denver, Aurora, Colorado. Electronic address: matthew.taylor@ucdenver.edu.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <GrantList CompleteYN="Y">
+          <Grant>
+            <GrantID>R01 HL109209</GrantID>
+            <Acronym>HL</Acronym>
+            <Agency>NHLBI NIH HHS</Agency>
+            <Country>United States</Country>
+          </Grant>
+          <Grant>
+            <GrantID>K23 HL067915</GrantID>
+            <Acronym>HL</Acronym>
+            <Agency>NHLBI NIH HHS</Agency>
+            <Country>United States</Country>
+          </Grant>
+        </GrantList>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+          <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2018</Year>
+          <Month>02</Month>
+          <Day>02</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>United States</Country>
+        <MedlineTA>JACC Clin Electrophysiol</MedlineTA>
+        <NlmUniqueID>101656995</NlmUniqueID>
+        <ISSNLinking>2405-500X</ISSNLinking>
+      </MedlineJournalInfo>
+      <ChemicalList>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="C578661">FLNC protein, human</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D064448">Filamins</NameOfSubstance>
+        </Chemical>
+      </ChemicalList>
+      <SupplMeshList>
+        <SupplMeshName Type="Disease" UI="C536231">Familial dilated cardiomyopathy</SupplMeshName>
+      </SupplMeshList>
+      <CitationSubset>IM</CitationSubset>
+      <CommentsCorrectionsList>
+        <CommentsCorrections RefType="CommentIn">
+          <RefSource>JACC Clin Electrophysiol. 2018 Apr;4(4):515-517</RefSource>
+          <PMID Version="1">30067492</PMID>
+        </CommentsCorrections>
+      </CommentsCorrectionsList>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D001145" MajorTopicYN="N">Arrhythmias, Cardiac</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D002311" MajorTopicYN="Y">Cardiomyopathy, Dilated</DescriptorName>
+          <QualifierName UI="Q000453" MajorTopicYN="N">epidemiology</QualifierName>
+          <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+          <QualifierName UI="Q000473" MajorTopicYN="N">pathology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D002448" MajorTopicYN="N">Cell Adhesion</DescriptorName>
+          <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D004252" MajorTopicYN="N">DNA Mutational Analysis</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005060" MajorTopicYN="N" Type="Geographic">Europe</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D064448" MajorTopicYN="N">Filamins</DescriptorName>
+          <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D007150" MajorTopicYN="N">Immunohistochemistry</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D009154" MajorTopicYN="N">Mutation</DescriptorName>
+          <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D009206" MajorTopicYN="Y">Myocardium</DescriptorName>
+          <QualifierName UI="Q000166" MajorTopicYN="N">cytology</QualifierName>
+          <QualifierName UI="Q000473" MajorTopicYN="N">pathology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D020641" MajorTopicYN="N">Polymorphism, Single Nucleotide</DescriptorName>
+          <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011446" MajorTopicYN="N">Prospective Studies</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D014481" MajorTopicYN="N" Type="Geographic">United States</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="Y">Filamin C</Keyword>
+        <Keyword MajorTopicYN="Y">arrhythmias</Keyword>
+        <Keyword MajorTopicYN="Y">arrhythmogenic dilated cardiomyopathy</Keyword>
+        <Keyword MajorTopicYN="Y">cardiovascular genetics</Keyword>
+        <Keyword MajorTopicYN="Y">familial dilated cardiomyopathy</Keyword>
+        <Keyword MajorTopicYN="Y">heart failure</Keyword>
+      </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2017</Year>
+          <Month>10</Month>
+          <Day>05</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="revised">
+          <Year>2017</Year>
+          <Month>11</Month>
+          <Day>20</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2017</Year>
+          <Month>12</Month>
+          <Day>07</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2018</Year>
+          <Month>8</Month>
+          <Day>2</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2018</Year>
+          <Month>8</Month>
+          <Day>2</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2019</Year>
+          <Month>10</Month>
+          <Day>17</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">30067491</ArticleId>
+        <ArticleId IdType="pii">S2405-500X(17)31191-X</ArticleId>
+        <ArticleId IdType="doi">10.1016/j.jacep.2017.12.003</ArticleId>
+        <ArticleId IdType="pmc">PMC6074050</ArticleId>
+        <ArticleId IdType="mid">NIHMS963402</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>Circ Cardiovasc Genet. 2014 Dec;7(6):751-759</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">25179549</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sci Transl Med. 2014 Jun 11;6(240):240ra74</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">24920660</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Eur Heart J. 1999 Jan;20(2):93-102</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">10099905</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nature. 2012 Nov 1;491(7422):56-65</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">23128226</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nat Rev Cardiol. 2013 Sep;10(9):531-47</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">23900355</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Eur Heart J. 2010 Apr;31(7):806-14</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">20172912</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Brain. 2007 Dec;130(Pt 12):3250-64</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">18055494</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Am Coll Cardiol. 2016 Dec 6;68(22):2440-2451</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">27908349</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Genome Biol. 2014 Dec 03;15(12):534</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">25633252</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>JACC Basic Transl Sci. 2016 Aug;1(5):344-359</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">28008423</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hum Mutat. 2016 Mar;37(3):269-79</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">26666891</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Circ Arrhythm Electrophysiol. 2016 Feb;9(2):e003688</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">26850880</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nat Commun. 2014 Oct 29;5:5326</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">25351925</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nature. 2016 Aug 17;536(7616):285-91</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">27535533</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bioinformatics. 2010 Apr 1;26(7):873-81</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">20147302</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Eur J Heart Fail. 2012 Nov;14(11):1199-207</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">22820313</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Brain. 2012 Sep;135(Pt 9):2642-60</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">22961544</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nucleic Acids Res. 2016 Jan 4;44(D1):D862-8</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">26582918</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hum Mutat. 2011 Aug;32(8):894-9</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">21520341</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Cell Sci. 2005 Aug 15;118(Pt 16):3739-49</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">16076904</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>PLoS One. 2013 Oct 29;8(10):e78104</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">24205113</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>N Engl J Med. 2009 Mar 12;360(11):1075-84</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">19279339</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Eur Heart J. 2015 May 7;36(18):1123-35a</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">25163546</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>JCI Insight. 2016 Apr 21;1(5):</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">27170944</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Trends Cell Biol. 2010 Feb;20(2):113-23</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">20061151</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nucleic Acids Res. 2010 Sep;38(16):e164</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">20601685</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Am Heart Assoc. 2015 Oct 16;4(10):e002149</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">26475296</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Am Coll Cardiol. 2016 Nov 15;68(20):2237-2238</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">27855815</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Acta Neuropathol. 2013 Jan;125(1):33-46</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">23109048</ArticleId>
+          </ArticleIdList>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Curated" Owner="NLM">
+      <PMID Version="1">30071617</PMID>
+      <DateCompleted>
+        <Year>2019</Year>
+        <Month>04</Month>
+        <Day>09</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2019</Year>
+        <Month>04</Month>
+        <Day>09</Day>
+      </DateRevised>
+      <Article PubModel="Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1424-8220</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>18</Volume>
+            <Issue>8</Issue>
+            <PubDate>
+              <Year>2018</Year>
+              <Month>Aug</Month>
+              <Day>01</Day>
+            </PubDate>
+          </JournalIssue>
+          <Title>Sensors (Basel, Switzerland)</Title>
+          <ISOAbbreviation>Sensors (Basel)</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Multiday EMG-Based Classification of Hand Motions with Deep Learning Techniques.</ArticleTitle>
+        <ELocationID EIdType="pii" ValidYN="Y">E2497</ELocationID>
+        <ELocationID EIdType="doi" ValidYN="Y">10.3390/s18082497</ELocationID>
+        <Abstract>
+          <AbstractText>Pattern recognition of electromyography (EMG) signals can potentially improve the performance of myoelectric control for upper limb prostheses with respect to current clinical approaches based on direct control. However, the choice of features for classification is challenging and impacts long-term performance. Here, we propose the use of EMG raw signals as direct inputs to deep networks with intrinsic feature extraction capabilities recorded over multiple days. Seven able-bodied subjects performed six active motions (plus rest), and EMG signals were recorded for 15 consecutive days with two sessions per day using the MYO armband (MYB, a wearable EMG sensor). The classification was performed by a convolutional neural network (CNN) with raw bipolar EMG samples as the inputs, and the performance was compared with linear discriminant analysis (LDA) and stacked sparse autoencoders with features (SSAE-f) and raw samples (SSAE-r) as inputs. CNN outperformed (lower classification error) both LDA and SSAE-r in the within-session, between sessions on same day, between the pair of days, and leave-out one-day evaluation (<i>p</i> &lt; 0.001) analyses. However, no significant difference was found between CNN and SSAE-f. These results demonstrated that CNN significantly improved performance and increased robustness over time compared with standard LDA with associated handcrafted features. This data-driven features extraction approach may overcome the problem of the feature calibration and selection in myoelectric control.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Zia Ur Rehman</LastName>
+            <ForeName>Muhammad</ForeName>
+            <Initials>M</Initials>
+            <Identifier Source="ORCID">0000-0002-6141-3648</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Robotics &amp; Artificial Intelligence, School of Mechanical &amp; Manufacturing Engineering, National University of Sciences &amp; Technology (NUST), Islamabad 44000, Pakistan. ziaurrehman@smme.edu.pk.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Waris</LastName>
+            <ForeName>Asim</ForeName>
+            <Initials>A</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Robotics &amp; Artificial Intelligence, School of Mechanical &amp; Manufacturing Engineering, National University of Sciences &amp; Technology (NUST), Islamabad 44000, Pakistan. aw@hst.aau.dk.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Center for Sensory-Motor Interaction, Department of Health Science and Technology, Aalborg University, 9200 Aalborg, Denmark. aw@hst.aau.dk.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Gilani</LastName>
+            <ForeName>Syed Omer</ForeName>
+            <Initials>SO</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Robotics &amp; Artificial Intelligence, School of Mechanical &amp; Manufacturing Engineering, National University of Sciences &amp; Technology (NUST), Islamabad 44000, Pakistan. omer@smme.nust.edu.pk.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Jochumsen</LastName>
+            <ForeName>Mads</ForeName>
+            <Initials>M</Initials>
+            <AffiliationInfo>
+              <Affiliation>Center for Sensory-Motor Interaction, Department of Health Science and Technology, Aalborg University, 9200 Aalborg, Denmark. mj@hst.aau.dk.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Niazi</LastName>
+            <ForeName>Imran Khan</ForeName>
+            <Initials>IK</Initials>
+            <Identifier Source="ORCID">0000-0001-8752-7224</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Center for Sensory-Motor Interaction, Department of Health Science and Technology, Aalborg University, 9200 Aalborg, Denmark. imran.niazi@nzchiro.co.nz.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Center for Chiropractic Research, New Zealand College of Chiropractic, Auckland 1060, New Zealand. imran.niazi@nzchiro.co.nz.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Health and Rehabilitation Research Institute, AUT University, Auckland 1142, New Zealand. imran.niazi@nzchiro.co.nz.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Jamil</LastName>
+            <ForeName>Mohsin</ForeName>
+            <Initials>M</Initials>
+            <Identifier Source="ORCID">0000-0002-8835-2451</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Robotics &amp; Artificial Intelligence, School of Mechanical &amp; Manufacturing Engineering, National University of Sciences &amp; Technology (NUST), Islamabad 44000, Pakistan. mohsin@smme.nust.edu.pk.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Department of Electrical Engineering, Faculty of Engineering, Islamic University Medina, Medina 41411, Saudi Arabia. mohsin@smme.nust.edu.pk.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Farina</LastName>
+            <ForeName>Dario</ForeName>
+            <Initials>D</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department Bioengineering, Imperial College London, London SW72AZ, UK. d.farina@imperial.ac.uk.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Kamavuako</LastName>
+            <ForeName>Ernest Nlandu</ForeName>
+            <Initials>EN</Initials>
+            <Identifier Source="ORCID">0000-0001-6846-2090</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Centre for Robotics Research, Department of Informatics, King's College, London WC2G4BG, UK. ernest.kamavuako@kcl.ac.uk.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2018</Year>
+          <Month>08</Month>
+          <Day>01</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>Switzerland</Country>
+        <MedlineTA>Sensors (Basel)</MedlineTA>
+        <NlmUniqueID>101204366</NlmUniqueID>
+        <ISSNLinking>1424-8220</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D000328" MajorTopicYN="N">Adult</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D001186" MajorTopicYN="N">Artificial Limbs</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000077321" MajorTopicYN="Y">Deep Learning</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D004576" MajorTopicYN="N">Electromyography</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006225" MajorTopicYN="N">Hand</DescriptorName>
+          <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D055815" MajorTopicYN="N">Young Adult</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">MYO band</Keyword>
+        <Keyword MajorTopicYN="N">autoencoders</Keyword>
+        <Keyword MajorTopicYN="N">convolutional neural networks</Keyword>
+        <Keyword MajorTopicYN="N">electromyography</Keyword>
+        <Keyword MajorTopicYN="N">multiday classification</Keyword>
+        <Keyword MajorTopicYN="N">myocontrol</Keyword>
+        <Keyword MajorTopicYN="N">pattern recognition</Keyword>
+      </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2018</Year>
+          <Month>06</Month>
+          <Day>09</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="revised">
+          <Year>2018</Year>
+          <Month>07</Month>
+          <Day>19</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2018</Year>
+          <Month>07</Month>
+          <Day>26</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2018</Year>
+          <Month>8</Month>
+          <Day>4</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2018</Year>
+          <Month>8</Month>
+          <Day>4</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2019</Year>
+          <Month>4</Month>
+          <Day>10</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>epublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">30071617</ArticleId>
+        <ArticleId IdType="pii">s18082497</ArticleId>
+        <ArticleId IdType="doi">10.3390/s18082497</ArticleId>
+        <ArticleId IdType="pmc">PMC6111443</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>J Rehabil Res Dev. 2011;48(6):643-59</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">21938652</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>PLoS One. 2009 Aug 26;4(8):e6791</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">19707562</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Med Devices (Auckl). 2016 Jul 27;9:247-55</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">27555799</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Front Neurorobot. 2016 Oct 19;10:15</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">27807418</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sensors (Basel). 2017 Feb 24;17(3):</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">28245586</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Brief Bioinform. 2017 Sep 1;18(5):851-869</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">27473064</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Conf Proc IEEE Eng Med Biol Soc. 2013;2013:4223-6</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">24110664</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>IEEE Trans Biomed Circuits Syst. 2015 Oct;9(5):620-30</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">26513799</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Neural Eng. 2016 Aug;13(4):046011</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">27265254</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Front Neurorobot. 2016 Sep 07;10:9</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">27656140</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Biochem Med (Zagreb). 2011;21(3):203-9</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">22420233</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>IEEE Trans Biomed Eng. 2008 Aug;55(8):1956-65</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">18632358</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Front Neurosci. 2017 Jul 11;11:379</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">28744189</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>IEEE Trans Neural Syst Rehabil Eng. 2010 Apr;18(2):185-92</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">20071269</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J R Soc Interface. 2017 Dec;14(137):null</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">29212759</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>IEEE Trans Biomed Eng. 1993 Jan;40(1):82-94</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">8468080</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>IEEE Int Conf Rehabil Robot. 2017 Jul;2017:1211-1214</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">28813986</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Neuroeng Rehabil. 2010 May 21;7:21</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">20492713</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>PLoS One. 2017 Oct 12;12(10):e0186132</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">29023548</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Neuroeng Rehabil. 2017 Aug 14;14(1):82</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">28807038</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sensors (Basel). 2017 Jun 13;17(6):</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">28608824</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Artif Organs. 2018 May;42(5):E67-E77</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">29068076</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Neural Eng. 2015 Aug;12(4):046005</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">26028132</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Hand Surg Am. 2005 Jul;30(4):780-9</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">16039372</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sci Rep. 2017 Jun 30;7(1):4437</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">28667260</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sensors (Basel). 2018 May 18;18(5):null</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">29783659</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sci Rep. 2016 Nov 15;6:36571</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">27845347</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sci Data. 2014 Dec 23;1:140053</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">25977804</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Front Neurosci. 2015 Oct 29;9:416</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">26578873</ArticleId>
+          </ArticleIdList>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+</PubmedArticleSet>
