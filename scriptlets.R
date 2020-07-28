@@ -4,12 +4,15 @@
 # often seen as example code. We're using this solely for demo purposes
 
 # Put globals, installs, and sources here
-source("./util_functions.R")
+#source("./util_functions.R")
 
 # Put functions here
 #   1. Prints hello world
+
+n <- readlines("what is your name:")
+
 hello_world <- function() {
-  myString <- "Hello, World!"
+  myString <- paste("Hello,", n)
   print (myString)
 }
 
