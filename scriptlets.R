@@ -15,10 +15,13 @@ hello_world <- function(n) {
 }
 
 color <- readline("What is your favorite color?:")
-hello_world <- function(color) {
+
+color_fun <- function(color) {
   myString <- paste("Oh,", color, "is nice!")
   print (myString)
 }
+
+color_fun(color)
 
 # main code
 hello_world(n)
