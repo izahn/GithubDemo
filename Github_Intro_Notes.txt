@@ -24,6 +24,7 @@ technique and then give you an opportunity to practice it. Topics may include:
 • Navigate to the class repository at https://github.com/izahn/demo
 Things I like about Git(hub)
 • Collaborate via issues, pull requests, discussions
+* Did I mention that pull requests are awesome!
 • Easy web presence for your projects
 • Creates a record of the work you do
 • Track and compare changes to project files over time
