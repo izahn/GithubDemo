@@ -10,7 +10,7 @@
 #   1. Prints hello world
 n <- readline("Type your name here:")
 hello_world <- function(n) {
-  myString <- paste("Hello,", n)
+  myString <- paste("Hello,", n*2)
   print (myString)
 }
 # main code
@@ -21,3 +21,4 @@ square_it(10)
 montecarloPi(3000)
 
 # END
+#MAKING SOME CHANGES HERE as just it is 
