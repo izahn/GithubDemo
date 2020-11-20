@@ -8,7 +8,7 @@
 
 # Put functions here
 #   1. Prints hello world
-n <- readline("what is your name:")
+n <- readline("Type your name here:")
 hello_world <- function(n) {
   myString <- paste("Hello,", n)
   print (myString)
