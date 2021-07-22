@@ -6,6 +6,8 @@
 # Put globals, installs, and sources here
 #source("./util_functions.R")
 
+cat("Github is great!")
+
 # Put functions here
 #   1. Prints hello world
 n <- readline("Type your name here:")
