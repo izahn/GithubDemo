@@ -16,6 +16,8 @@ hello_world <- function(n) {
   print (myString)
 }
 
+library(tidyverve)
+
 color <- readline("What is your favorite color?:")
 
 color_fun <- function(color) {
