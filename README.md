@@ -1,7 +1,7 @@
 # demo
 A github repository to be used as a demonstration.
 
-I've been using git a long time and I still love it!
+I've been using git a long time and I still love it! Especially since it now has codespaces that allow you run run code right in your web browser.
 
 I especially love pull requests and issue tracking, it really makes collaboration easier.
 
